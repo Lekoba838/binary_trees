@@ -66,10 +66,9 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 
-## Autor
+## Author
 
-```bash
-Ronald Rivero
+```Matlakala Lucia
 ```
 
 ### Connect
